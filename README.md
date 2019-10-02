@@ -60,4 +60,4 @@
 <p><strong>Pentaho</strong><br /><a href="http://www.pentaho.com/">http://www.pentaho.com/</a><br />Business analytics tool for playing with numbers. Open source version is limited, but has some great tools for the price (FREE!)</p>
 <p><strong>Splunk Free</strong><br /><a href="http://www.splunk.com/view/free-vs-enterprise/SP-CAAAE8W">http://www.splunk.com/view/free-vs-enterprise/SP-CAAAE8W<br /></a>Variety of indexing, search, and reporting tools built into a dashboarding tool with apps and developer APIs.</p>
 <p><strong>Google Charts</strong><br /><a href="https://developers.google.com/chart/">https://developers.google.com/chart/</a><br />Google Charts is a go-to resource for free charting capabilities. You can serve up all sorts of data into it, embed them, and even use spreadsheets from Google docs.</p>
-<p><strong>Data Studio</strong><br href="https://datastudio.google.com/navigation/"
+<p><strong>Data Studio</strong><br https://datastudio.google.com/navigation/
